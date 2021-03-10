@@ -10,27 +10,27 @@ https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 
 ![1](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/1.png)
 
-![2](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\2.png)
+![2](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/2.png)
 
-![3](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\3.png)
+![3](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/3.png)
 
-![4](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\4.png)
+![4](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/4.png)
 
-![5](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\5.png)
+![5](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/5.png)
 
-![6](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\6.png)
+![6](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/6.png)
 
-![7](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\7.png)
+![7](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/7.png)
 
-![8](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\8.png)
+![8](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/8.png)
 
-![9](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\9.png)
+![9](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/9.png)
 
-![10](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\10.png)
+![10](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/10.png)
 
-![11](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\11.png)
+![11](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/11.png)
 
-![12](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\12.png)
+![12](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/12.png)
 
 ```c++
 class Solution {
