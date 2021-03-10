@@ -4,7 +4,7 @@ https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 
 ## 1. 机器人的运动范围是个等腰三角形
 
-![0](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\0.png)
+![0](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/0.png)
 
 ## 2. 具体图解：
 
