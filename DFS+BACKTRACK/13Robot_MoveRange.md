@@ -8,7 +8,7 @@ https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 
 ## 2. 具体图解：
 
-![1](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\1.png)
+![1](https://github.com/zhangm365/Code-Interview2-Optimization/blob/main/DFS%2BBACKTRACK/figure/1.png)
 
 ![2](E:\编程练习\Code-Interview2-Optimization\DFS+BACKTRACK\figure\2.png)
 
